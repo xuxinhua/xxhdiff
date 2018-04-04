@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 s.name         = "xxhdiff"
-s.version      = "0.0.2"
+s.version      = "0.0.3"
 s.summary      = "xxhdiff补丁库"
-s.homepage     = "https://github.com/xuxinhua/xxhdiff.git"
+s.homepage     = "https://www.baidu.com"
 s.license      = { :type => "MIT" }
 s.author       = { "xuxinhua" => "xuxinhua@apexsoft.com.cn" }
 s.platform     = :ios
