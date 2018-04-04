@@ -7,7 +7,7 @@ s.license      = { :type => "MIT" }
 s.author       = { "xuxinhua" => "xuxinhua@apexsoft.com.cn" }
 s.platform     = :ios
 s.ios.deployment_target = "8.0"
-s.source       = { :git => "https://github.com/xuxinhua/xxhdiff.git" :tag => s.version }
+s.source       = { :git => "https://github.com/xuxinhua/xxhdiff.git", :tag => s.version }
 s.source_files  = "**/*.{h,m}"
 s.requires_arc = false
 
